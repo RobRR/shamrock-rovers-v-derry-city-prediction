@@ -54,7 +54,13 @@ Because the bookmaker's odds are below the Dixon-Coles projections across the bo
 
 Regarding the draw odds, while a market price of 3.30 is as good as identical to the ‘fair’ price of 3.31, it is still mathematically lower. By definition, a price below the model's ‘fair’ estimation still yields a negative expected value. 
 
-Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. What’s good for the bookmaker is not good for you!
+Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. 
+
+What’s good for the bookmaker is not good for you!
+
+**Scoreline Note:** While a 1-0 victory for Shamrock Rovers stands out as the model's highest-probability outcome (16.3%), Paddy Power's market price of 6.0 is slightly under the model's calculated 'fair' price of 6.13. While it still isn't a value bet, the price is much fairer than the heavily squeezed odds in the main match-winner market. 
+
+> 💡 **Hidden Market Value:** While Paddy Power has completely wiped out positive expected value (+EV) in the main 1X2 market, the exact scoreline market tells a different story, with genuine +EV edges on the 1-1 draw, 2-1 home win, and 0-1 away win. 
 
 ---
 
