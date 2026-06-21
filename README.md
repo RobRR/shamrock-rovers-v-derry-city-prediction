@@ -1,15 +1,10 @@
 # shamrock-rovers-v-derry-city-prediction
 
 ---
-title: "Match analysis: Shamrock Rovers v Derry City"
-subtitle: "Dixon-Coles model probability & market efficiency evaluation"
-date: "2026-06-21"
-output: github_document
----
+# Match Analysis: Shamrock Rovers v Derry City
+### Dixon-Coles model probability & market efficiency evaluation
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$config(echo = TRUE, warning = FALSE, message = FALSE)
-```
+---
 
 ## Form & match context
 
