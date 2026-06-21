@@ -34,7 +34,7 @@ A baseline independent Poisson model struggles with low-scoring football matches
 
 * 📈 **Inflates 0-0 and 1-1:** Accounts for the real-world tendency of low-scoring matches to end in draws more often than pure randomness predicts.
 * 📉 **Deflates 1-0 and 0-1:** Corrects the standard Poisson model's tendency to overstate narrow, single-goal victories.
-* 📝 **FYI** This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected.
+* 📝 **FYI:** This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected.
 
 ---
 
