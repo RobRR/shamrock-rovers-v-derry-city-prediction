@@ -24,6 +24,8 @@ Because a single goal makes up such a huge part of the final score, one lucky or
 
 The accompanying chart shows the respective goal distributions for both sides and the Dixon-Coles correct score matrix:
 
+![Alternative Text Descriptions](rovers_derry_prediction_2026.png)
+
 ### Low-scoreline parameter adjustments ($\rho$)
 
 A baseline independent Poisson model struggles with low-scoring football matches because it assumes team scores are entirely independent. To fix this, a Dixon-Coles parameter ($\rho$) adjusts the lowest scorelines:
