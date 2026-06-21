@@ -26,10 +26,9 @@ The accompanying chart shows the respective goal distributions for both sides an
 
 A baseline independent Poisson model struggles with low-scoring football matches because it assumes team scores are entirely independent. To fix this, a Dixon-Coles parameter ($\rho$) adjusts the lowest scorelines:
 
-* **Inflates 0-0 and 1-1:** Accounts for the real-world tendency of low-scoring matches to end in draws more often than pure randomness predicts.
-* **Deflates 1-0 and 0-1:** Corrects the standard Poisson model's tendency to overstate narrow, single-goal victories.
-
-_Note: This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected._
+* 📈 **Inflates 0-0 and 1-1:** Accounts for the real-world tendency of low-scoring matches to end in draws more often than pure randomness predicts.
+* 📉 **Deflates 1-0 and 0-1:** Corrects the standard Poisson model's tendency to overstate narrow, single-goal victories.
+* 📝 This fix only changes low-scoring games. If either team scores two or more goals, the score is not affected.
 
 ---
 
@@ -51,6 +50,6 @@ Regarding the draw odds, while a market price of 3.30 is as good as identical to
 
 Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. What’s good for the bookmaker is not good for you!
 
-## Methodological notes
+### 📋 Note on model parameters
 
 A time-decay factor was intentionally omitted from this run. Because the 2026 League of Ireland season only kicked off in February – with just 106 of the 180 total games played to date – the sample size is fresh enough that artificially discounting early-season data would introduce unnecessary noise rather than predictive signal.
