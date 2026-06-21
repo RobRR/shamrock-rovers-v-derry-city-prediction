@@ -1,8 +1,11 @@
-# shamrock-rovers-v-derry-city-prediction
+**Model type:** Dixon-Coles Model Probability & Market Efficiency Evaluation
 
----
-# Match Analysis: Shamrock Rovers v Derry City
-### Dixon-Coles model probability & market efficiency evaluation
+> **Fixture:** Shamrock Rovers v Derry City  
+> **Venue:** Tallaght Stadium  
+> **Kick-off:** Monday, June 22, 2026 (8pm)
+
+## Form & match context
+
 
 ---
 
