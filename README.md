@@ -8,7 +8,7 @@ output: github_document
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk\$coonfig(echo = TRUE, warning = FALSE, message = FALSE)
+knitr::opts_chunk$config(echo = TRUE, warning = FALSE, message = FALSE)
 ```
 
 ## Form & match context
