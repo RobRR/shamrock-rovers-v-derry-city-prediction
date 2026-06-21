@@ -16,7 +16,7 @@ So, there isn’t much to recommend Derry, is there?
 
 The Dixon-Coles model predicts another 1-0 home win for Shamrock Rovers as being the most likely outcome from this fixture between the league’s first- and sixth-placed sides. Were Rovers to win, they would stretch their lead over their nearest rivals, St Patrick’s Athletic, to eight points, but having played two more games.
 
-> **Important analytical reminder:** Even the most likely outcome (in this instance, 16.3% for a 1-0 home win) is not that likely. 
+**Important analytical reminder:** Even the most likely outcome (in this instance, 16.3% for a 1-0 home win) is not that likely. 
 
 The Dixon-Coles model treats goal scoring as a random process governed by a Poisson distribution, adjusted for team strengths. In a low-scoring sport like football, a single goal can define the outcome of the game, as matches average only two to three goals in total.
 
