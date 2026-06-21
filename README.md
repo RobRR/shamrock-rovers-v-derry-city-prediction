@@ -42,7 +42,20 @@ A baseline independent Poisson model struggles with low-scoring football matches
 
 At the time of writing, Paddy Power’s total book stood at 109.67%, meaning they had built a sizeable overround of 9.67% into this specific market. Efficiently-priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes.
 
-For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price:
+For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price.
+
+---
+
+## Odds & market probability analysis
+
+Based on the probabilities derived from the Dixon-Coles model, Shamrock Rovers are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
+
+| Outcome | Fair odds (model) | Implied probability (model) | Paddy Power odds | Implied probability (market) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Shamrock Rovers win** | 1.87 | 53.48% | 1.75 | 57.14% |
+| **Derry City win** | 6.13 | 16.31% | 4.50 | 22.22% |
+| **Draw** | 3.31 | 30.21% | 3.30 | 30.30% |
+| **Total book** | — | **100%** | — | **109.67%** |
 
 ## Odds & market probability analysis
 
