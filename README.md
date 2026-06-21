@@ -1,10 +1,8 @@
 **Model Type:** Dixon-Coles Model Probability & Market Efficiency Evaluation
 
-> **Fixture:** Shamrock Rovers vs. Derry City  
-> **Venue:** Tallaght Stadium  
-> **Kick-off:** Monday, June 22, 2026 (8pm)
-
-## Form & match context
+**Fixture:** Shamrock Rovers vs. Derry City  
+**Venue:** Tallaght Stadium 
+**Kick-off:** Monday, June 22, 2026 (8pm)
 
 ## Form & match context
 
