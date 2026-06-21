@@ -8,6 +8,8 @@ Only Waterford (no wins from 10 away games) have a worse record on the road this
 
 So, there isn’t much to recommend Derry, is there?
 
+---
+
 ## Model predictions & football variance
 
 The Dixon-Coles model predicts another 1-0 home win for Shamrock Rovers as being the most likely outcome from this fixture between the league’s first- and sixth-placed sides. Were Rovers to win, they would stretch their lead over their nearest rivals, St Patrick’s Athletic, to eight points, but having played two more games.
@@ -49,6 +51,8 @@ Because the bookmaker's odds are below the Dixon-Coles projections across the bo
 Regarding the draw odds, while a market price of 3.30 is as good as identical to the ‘fair’ price of 3.31, it is still mathematically lower. By definition, a price below the model's ‘fair’ estimation still yields a negative expected value. 
 
 Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. What’s good for the bookmaker is not good for you!
+
+---
 
 ### 📋 Note on model parameters
 
