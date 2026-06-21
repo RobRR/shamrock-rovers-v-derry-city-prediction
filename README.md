@@ -16,7 +16,7 @@ So, there isn’t much to recommend Derry, is there?
 
 ## Model predictions & football variance
 
-The Dixon-Coles model predicts another **1-0 home win for Shamrock Rovers** as being the most likely outcome from this fixture between the league’s first- and sixth-placed sides. Were Rovers to win, they would stretch their lead over their nearest rivals, St Patrick’s Athletic, to eight points, but having played two more games.
+The Dixon-Coles model predicts another 1-0 home win for Shamrock Rovers as being the most likely outcome from this fixture between the league’s first- and sixth-placed sides. Were Rovers to win, they would stretch their lead over their nearest rivals, St Patrick’s Athletic, to eight points, but having played two more games.
 
 > **Important analytical reminder:** Even the most likely outcome (in this instance, 16.3% for a 1-0 home win) is not that likely. 
 
@@ -39,7 +39,7 @@ _Note: This fix only changes low-scoring games. If either team scores two or mor
 
 ## Market efficiency & EV assessment
 
-At the time of writing, Paddy Power’s total book stood at **109.67%**, meaning they had built a sizeable overround of **9.67%** into this specific market. Efficiently-priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes.
+At the time of writing, Paddy Power’s total book stood at 109.67%, meaning they had built a sizeable overround of 9.67% into this specific market. Efficiently-priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes.
 
 For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price:
 
@@ -53,7 +53,7 @@ Because the bookmaker's odds are below the Dixon-Coles projections across the bo
 
 Regarding the draw odds, while a market price of 3.30 is as good as identical to the ‘fair’ price of 3.31, it is still mathematically lower. By definition, a price below the model's ‘fair’ estimation still yields a negative expected value. 
 
-> **Trading discipline:** Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. What’s good for the bookmaker is not good for you!
+**Trading discipline:** Passing up a match where the bookmaker has eliminated all value is just as important as finding a +EV edge. What’s good for the bookmaker is not good for you!
 
 ## Methodological notes
 
