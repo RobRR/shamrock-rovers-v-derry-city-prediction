@@ -44,11 +44,16 @@ At the time of writing, Paddy Power’s total book stood at 109.67%, meaning the
 
 For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price:
 
-| Selection | Paddy Power market price | Model 'fair' price | Value status |
-| :--- | :---: | :---: | :---: |
-| **Shamrock Rovers (home)** | 1.75 | 1.87 | -EV |
-| **Draw** | 3.30 | 3.31 | -EV |
-| **Derry City (away)** | 4.50 | 6.13 | -EV |
+## Odds & market probability analysis
+
+Based on the probabilities derived from the Dixon-Coles model, Shamrock Rovers are the favourites to win. However, a comparison with the market reveals significant bookmaker overround.
+
+| Outcome | Fair odds (model) | Implied probability (model) | Paddy Power odds | Implied probability (market) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Shamrock Rovers win** | 1.87 | 53.48% | 1.75 | 57.14% |
+| **Derry City win** | 6.13 | 16.31% | 4.50 | 22.22% |
+| **Draw** | 3.31 | 30.21% | 3.30 | 30.30% |
+| **Total book** | — | **100%** | — | **109.67%** |
 
 Because the bookmaker's odds are below the Dixon-Coles projections across the board, Paddy Power has once more completely eliminated the value across the entire 1X2 market. 
 
