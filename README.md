@@ -1,6 +1,6 @@
 # Predictive football modelling: Shamrock Rovers v Derry City
 
-### 🏟️ Match preview & form context
+### 🏟️ Match preview & form guide
 
 Derry haven’t exactly pulled up any trees this season, and it seems unlikely that the Candystripes will uproot Shamrock Rovers on the Hoops’ home patch at Tallaght Stadium in one of two fixtures in the League of Ireland’s Premier Division on Monday (June 22, 2026; 8pm).
 
@@ -12,7 +12,7 @@ So, there isn’t much to recommend Derry, is there?
 
 ---
 
-## Model predictions & football variance
+## Model predictions & variance factor
 
 The Dixon-Coles model predicts another 1-0 home win for Shamrock Rovers as being the most likely outcome from this fixture between the league’s first- and sixth-placed sides. Were Rovers to win, they would stretch their lead over their nearest rivals, St Patrick’s Athletic, to eight points, but having played two more games.
 
