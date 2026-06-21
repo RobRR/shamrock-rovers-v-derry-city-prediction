@@ -1,7 +1,5 @@
 # Predictive football modelling: Shamrock Rovers v Derry City
 
-Derry haven’t exactly pulled up any trees this season, and it seems unlikely that the Candystripes will uproot Shamrock Rovers on the Hoops’ home patch at Tallaght Stadium in one of two fixtures in the League of Ireland’s Premier Division on Monday (June 22, 2026; 8pm).
-
 ## Form & match context
 
 Derry haven’t exactly pulled up any trees this season, and it seems unlikely that the Candystripes will uproot Shamrock Rovers on the Hoops’ home patch at Tallaght Stadium in one of two fixtures in the League of Ireland’s Premier Division on Monday (June 22, 2026; 8pm).
