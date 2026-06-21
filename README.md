@@ -6,7 +6,7 @@ Derry haven’t exactly pulled up any trees this season, and it seems unlikely t
 
 Tiernan Lynch’s side have won just one of their last nine games in the league (1W, 5D, 3L) and lost on their previous visit to the Dublin 24 venue in March, when a penalty from Dylan Watts nine minutes from time separated the sides. 
 
-Only Waterford (no wins from 10 away games) have won fewer fixtures on the road this season compared to Derry’s solitary success on their travels (1W, 5D, 5L). Even Waterford (11) have scored more away goals than Derry (10) – and from one fewer game.
+Only Waterford (no wins from 10 away games) have a worse record on the road this season compared to Derry’s solitary success on their travels (1W, 5D, 5L). Even Waterford (11) have scored more away goals than Derry (10) – and from one fewer game.
 
 So, there isn’t much to recommend Derry, is there?
 
