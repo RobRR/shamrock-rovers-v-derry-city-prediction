@@ -53,7 +53,7 @@ For a bet to have +EV, the bookmaker's odds must be higher than the model's fair
 
 Because the bookmaker's odds are below the Dixon-Coles projections across the board, Paddy Power has once more completely eliminated the value across the entire 1X2 market. 
 
-Regarding the draw odds, while a market price of 3.30 is as good as identical to the ‘fair’ price of 3.31, it is still mathematically lower. By definition, a price below the model's ‘fair’ estimation still yields a negative expected value. 
+Regarding the draw odds, while a market price of 3.30 is as good as identical to the fair price of 3.31, it is still mathematically lower. By definition, a price below the model's fair estimation still yields a negative expected value. 
 
 Paddy Power's market price of 6.0 (16.6%) for a 1-0 win for Shamrock Rovers is slightly under the model's calculated 'fair' price of 6.13 (16.31%). While the price is much fairer than the squeezed odds in the main match-winner market, it still isn't a value bet. 
 
@@ -65,4 +65,4 @@ What’s good for the bookmaker is not good for you!
 
 ### 📋 Note on model parameters
 
-A time-decay factor was intentionally omitted from this run. Because the 2026 League of Ireland season only kicked off in February – with just 106 of the 180 total games played to date – the sample size is fresh enough that artificially discounting early-season data would introduce unnecessary noise rather than predictive signal.
+A time-decay factor was intentionally omitted from this run. Because the 2026 League of Ireland season only kicked off in February – with just 106 of the 180 total games played to date – the sample size is fresh enough that artificially discounting early season data would introduce unnecessary noise rather than predictive signal.
