@@ -47,9 +47,10 @@ Based on the probabilities derived from the Dixon-Coles model, Shamrock Rovers a
 | **Draw** | 3.31 | 30.21% | 3.30 | 30.30% |
 | **Total book** | — | **100%** | — | **109.67%** |
 
-At the time of writing, Paddy Power’s total book stood at 109.67%, meaning they had built a sizeable overround of 9.67% into this specific market. Efficiently-priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes.
+At the time of writing, Paddy Power’s total book stood at 109.67%, meaning they had built a sizeable margin of 9.67% into this specific market. Efficiently priced markets with heavy overrounds are mathematically impossible to beat over the long term. Consequently, there is no positive expected value (+EV) across any of the three 1X2 outcomes.
 
 For a bet to have +EV, the bookmaker's odds must be higher than the model's fair odds. In this specific scenario, every single market price is lower than the model's calculated fair price.
+
 Because the bookmaker's odds are below the Dixon-Coles projections across the board, Paddy Power has once more completely eliminated the value across the entire 1X2 market. 
 
 Regarding the draw odds, while a market price of 3.30 is as good as identical to the ‘fair’ price of 3.31, it is still mathematically lower. By definition, a price below the model's ‘fair’ estimation still yields a negative expected value. 
