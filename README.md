@@ -1,4 +1,4 @@
-# Predictive football modelling: Shamrock Rovers v Derry City
+# Predictive football modelling: Shamrock Rovers v Derry City (Result: 1-1 draw)
 
 ### 🏟️ Match preview and form guide
 
